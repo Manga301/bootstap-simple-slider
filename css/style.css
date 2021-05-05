@@ -1,0 +1,19 @@
+#carouselExampleControls{
+    width: 100%;
+    
+}
+
+.slide-1{
+    background: #3d84b8;
+    height: 350px;
+}
+
+.slide-2{
+    background: #de8971;
+    height: 350px;
+}
+
+.slide-3{
+    background: #5aa897;
+    height: 350px;
+}
